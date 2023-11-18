@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+darts
+prophet
+neuralprophet
+statsmodels
+jupyter
+seaborn
+lightgbm
